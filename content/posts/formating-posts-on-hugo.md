@@ -1,7 +1,7 @@
 ---
 author: ["Chris Achinga"]
 title: "Formating Posts on a Hugo Site"
-date: "2025-05-21"
+date: "2025-05-22"
 description: "Hugo makes it easier to have whatever i have in my head on text, well on markdown. this is my go-to documentation for that"
 tags: ["markdown", "technical writing", "hugo"]
 ShowToc: true
