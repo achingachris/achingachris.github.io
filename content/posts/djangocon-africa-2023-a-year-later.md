@@ -5,9 +5,6 @@ date: "2024-07-10"
 description: "This was my first ever tech conference outside Kenya, and first one to speak outside. So many memories"
 tags: ["djangocon africa", "django", "djangocon"]
 ShowToc: true
-cover:
-  image: images/djangcon-africa-23/IMG_5435.JPG
-  caption: "Chris Achinga talking in the main auditorium during djangocon africa 2023"
 ---
 
 ## The Announcement
