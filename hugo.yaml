@@ -1,4 +1,4 @@
-baseURL: https://achingachris.github.io/
+baseURL: https://me.chrisdevcode.com
 languageCode: en-us
 title: Chris Achinga
 theme: ["PaperMod"]
@@ -42,6 +42,7 @@ languages:
           weight: 10
         - name: my LinkedIn
           url: https://www.linkedin.com/in/chrisachinga/
+
 
 outputs:
   home:
@@ -100,6 +101,9 @@ params:
     - name: X
       title: Share PaperMod on X/Twitter
       url: "https://x.com/achinga_chris"
+    - name: mastodon
+      title: Follow me on Mastodon
+      url: https://mastodon.social/@chrisdevcode
 
 
   # label:
