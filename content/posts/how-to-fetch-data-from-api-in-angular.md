@@ -2,18 +2,14 @@
 author: ["Chris Achinga"]
 title: "How to Fetch Data from an API in Angular"
 date: "2023-05-29"
-description: "Progressive Web Applications (PWAs) have gained significant popularity in recent years due to their ability to deliver a native-like experience to users across multiple devices. One of the frameworks that has emerged as a powerful tool for building PWAs is Next.js."
+description: "This article will demonstrate how to get data from external APIs in an Angular project."
 tags: ["angular", "apis", "typescript"]
 ShowToc: true
-cover:
-   image: images/banners/angularapi.png
-   caption: "build progressive web apps"
 ---
 
 
 The Dad Jokes App: Spreading Laughter One Click at a Time
 
-This article will demonstrate how to get data from external APIs in an Angular project.
 
 > Humor has a unique way of brightening up our day and creating moments of joy. In the digital age, countless apps cater to various interests, and one app that stands out is the Dad Jokes App. This lighthearted application brings a collection of witty and groan-inducing dad jokes to your fingertips, ensuring laughter is just a click away. In this article, we'll explore the features and development of the Dad Jokes App and its impact on users' daily lives.
 

@@ -5,9 +5,6 @@ date: "2023-06-25"
 description: "Progressive Web Applications (PWAs) have gained significant popularity in recent years due to their ability to deliver a native-like experience to users across multiple devices. One of the frameworks that has emerged as a powerful tool for building PWAs is Next.js."
 tags: ["javascript", "pwa", "nextjs"]
 ShowToc: true
-cover:
-   image: images/banners/pwa-banner.png
-   caption: "build progressive web apps"
 ---
 
 
