@@ -5,9 +5,6 @@ date: "2023-12-12"
 description: "Progressive Web Apps(PWA) are basically sites that use modern web tools to provide app-like experiences to users."
 tags: ["angular", "progressive web apps", "pwafire"]
 ShowToc: true
-cover:
-   image: images/banners/building-pwa.png
-   caption: "build progressive web apps"
 ---
 
 
